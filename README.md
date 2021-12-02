@@ -1,5 +1,5 @@
 
-<img src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FWorldRotating.gif?alt=media&token=989ca50e-4887-4e24-b8a1-1b881229e995" width="30px"> How to reach me:
+<img src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FWorldRotating.gif?alt=media&token=989ca50e-4887-4e24-b8a1-1b881229e995" width="20px"> How to reach me:
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/pablo-royo/">
