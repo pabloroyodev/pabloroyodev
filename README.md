@@ -16,7 +16,7 @@ I'm a developer from Tudela, Navarre (Spain).
 In a near future I will upload videos about my open source projects <img src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FRocket.gif?alt=media&token=8e3a638d-b99b-43c8-9a9f-58c898e73264" width="20px"> , so stay tune! I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <br/>
 
-- <img src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FLooking.gif?alt=media&token=40a59701-7b9e-42c9-b11e-e762f1355214" width="20px"> I'm currently seeking for an apprenticeship.
-- <img src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FFIRE_EMOJI_400.gif?alt=media&token=89f5502b-b243-4145-9ce4-d0561fa8283a" width="20px"> Currently focus on ending my studies and the [Codecademy PRO path](https://codecademy.com/paths/full-stack-engineer-career-path/)
+- <img src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FLooking.gif?alt=media&token=40a59701-7b9e-42c9-b11e-e762f1355214" width="20px"> I'm currently in a internship at [BosonIT](https://bosonit.com/).
+- <img src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FFIRE_EMOJI_400.gif?alt=media&token=89f5502b-b243-4145-9ce4-d0561fa8283a" width="20px"> Currently focus on Spring Boot.
 
 
