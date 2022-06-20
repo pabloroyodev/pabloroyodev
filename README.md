@@ -11,7 +11,7 @@
 
 I'm a developer from Tudela, Navarre (Spain).
 
-I consider my self a passionate full stack web developer (Spring and Angular). My passion for software lies in that anything you can imagine can be made thanks to the software development, I personally think that a very important skill every programmer need is to be capable of work in a team so every teammate can help each other.
+I consider my self a passionate full stack web developer. My passion for software lies in that anything you can imagine can be made thanks to the software development, I personally think that a very important skill every programmer need is to be capable of work in a team so every teammate can help each other.
 
 In a near future I will upload videos about my open source projects <img height="32" width="35" src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FRocket.gif?alt=media&token=8e3a638d-b99b-43c8-9a9f-58c898e73264"> , so stay tune! I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <br/>
