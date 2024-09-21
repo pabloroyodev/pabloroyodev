@@ -15,5 +15,5 @@ I consider my self a passionate backend web developer. My passion for software l
 
 <img height="25" width="25" src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FLooking.gif?alt=media&token=40a59701-7b9e-42c9-b11e-e762f1355214"> Currently focus on enterprise projects with the stack Spring Boot and Angular.
 
-<img height="25" width="25" src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FFIRE_EMOJI_400.gif?alt=media&token=89f5502b-b243-4145-9ce4-d0561fa8283a"> Pasionate about Microservice Architecture, Kafka, RabittMQ, Hexagonal Architecture and Angular
+<img height="25" width="25" src="https://firebasestorage.googleapis.com/v0/b/pablo-royo.appspot.com/o/Github%20Engine%2FProfile%2FFIRE_EMOJI_400.gif?alt=media&token=89f5502b-b243-4145-9ce4-d0561fa8283a"> Pasionate about Microservice Architecture, Kafka, RabittMQ, Hexagonal Architecture and Angular.
 
