@@ -25,7 +25,7 @@ I'm a passionate **Software Architect** based in beautiful **Navarre, Spain** �
 ## 🌍 Connect with me
 
 - LinkedIn: [Pablo LinkedIn](https://www.linkedin.com/in/pablo-royo)
-- Websites: For business [pabloroyo.com](https://pabloroyo.com) & for software [pabloroyo.co](https://pabloroyo.co) 
+- Website: [pabloroyo.com](https://pabloroyo.com)
   
 ## 🎯 Fun Facts
 
